@@ -14,7 +14,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
+    "mammoth": "^1.9.1",
     "multer": "^2.0.1",
+    "puppeteer": "^24.11.2",
     "uuid": "^11.1.0"
   }
 }
